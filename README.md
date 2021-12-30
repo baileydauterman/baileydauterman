@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baileydauterman
-- 👀 I’m interested in videos games, progreamming, and coffee
+- 👀 I’m interested in videos games, programming, and coffee
 - 🌱 I’m currently learning everything, when do we stop learning?
 - 💞️ I’m looking to collaborate on any intersting projects
 - 📫 My contact info is at:  https://baileydauterman.github.io
