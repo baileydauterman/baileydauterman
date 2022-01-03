@@ -1,4 +1,4 @@
-#About Me
+# About Me
 ---
 - 👋 Hi, I’m @baileydauterman
 - 👀 I’m interested in videos games, programming, and coffee
@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on any intersting projects
 - 📫 My contact info is at:  https://baileydauterman.github.io
 
-#Stats
+# Stats
 ---
 [![Bailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=baileydauterman&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
