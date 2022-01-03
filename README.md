@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning everything, when do we stop learning?
 - 💞️ I’m looking to collaborate on any intersting projects
 - 📫 My contact info is at:  https://baileydauterman.github.io
+
+#Stats
 ---
 [![Bailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=baileydauterman&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
