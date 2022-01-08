@@ -9,7 +9,6 @@
 # Stats
 ---
 [![Bailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=baileydauterman&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baileydauterman&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 baileydauterman/baileydauterman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
