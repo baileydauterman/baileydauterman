@@ -2,7 +2,7 @@
 ---
 - 👋 Hi, I’m @baileydauterman
 - 👀 I’m interested in videos games, programming, and coffee
-- 🌱 I’m currently learning everything, when do we stop learning?
+- 🌱 I’m currently learning everything, when do we stop learning? Project wise I am working on [AdminTools](https://admintools.github.io) and going through [CryptoPals](https://cryptopals.com) challenges
 - 💞️ I’m looking to collaborate on any intersting projects
 - 📫 My contact info is at:  https://baileydauterman.github.io
 
